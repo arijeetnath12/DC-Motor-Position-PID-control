@@ -13,3 +13,5 @@ This project uses Pololu’s Dual G2 High-Power Motor Shield library.
 Code for the motor driver is maintained here:  
 [pololu/dual-g2-high-power-motor-shield](https://github.com/pololu/dual-g2-high-power-motor-shield)
 
+https://github.com/arijeetnath12/Real-Time-Object-Tracking-and-Path-Visualization-using-OpenCV/assets/img1.jpg
+
