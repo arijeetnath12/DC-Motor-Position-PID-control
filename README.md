@@ -14,7 +14,8 @@ Code for the motor driver is maintained here:
 [pololu/dual-g2-high-power-motor-shield](https://github.com/pololu/dual-g2-high-power-motor-shield)
 
 
-<video src="assets/Timeline 1.mov" controls width="640" title="Demo"></video>
+<video src="https://github.com/arijeetnath12/DC-Motor-Position-PID-control/blob/main/assets/Timeline_.mp4?raw=1" controls width="640" title="Demo" poster="assets/DCMotorPWM.png"></video>
+
 
 
 
