@@ -6,8 +6,8 @@ configureTerminator(s,"CR/LF");
 flush(s);
 
 f = figure('Name','Velocity'); hold on; grid on;
-hRef = animatedline('DisplayName','ref','Color',[0,0,1]);
-hPos = animatedline('DisplayName','y','Color',[1,0,0]);
+hRef = animatedline('DisplayName','setPoint','Color',[0,0,1]);
+hPos = animatedline('DisplayName','motorPosition','Color',[1,0,0]);
 legend show
 xlabel('Time(s)'), ylabel('counts'); t0 = tic;
 
