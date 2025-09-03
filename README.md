@@ -16,6 +16,6 @@ Code for the motor driver is maintained here:
 
 <video src="assets/Timeline 1.mov" controls width="640" title="Demo"></video>
 
-![Tracking demo](assets/DCMotorPWM.png)
+
 
 
