@@ -14,7 +14,8 @@ Code for the motor driver is maintained here:
 [pololu/dual-g2-high-power-motor-shield](https://github.com/pololu/dual-g2-high-power-motor-shield)
 
 
-![Tracking demo](assets/Timeline 1.mov)
+<video src="assets/Timeline 1.mov" controls width="640" title="Demo"></video>
+
 ![Tracking demo](assets/DCMotorPWM.png)
 
 
