@@ -21,7 +21,7 @@ Code for the motor driver is maintained here:
 <video controls width="640" title="Demo" poster="assets/DCMotorPWM.png">
   <source src="https://raw.githubusercontent.com/arijeetnath12/DC-Motor-Position-PID-control/main/assets/Timeline_.mp4" type="video/mp4" />
   Your browser doesn’t support embedded videos. Here’s a
-  <a href="https://raw.githubusercontent.com/arijeetnath12/DC-Motor-Position-PID-control/main/assets/Timeline_.mp4">direct link</a>.
+  <a href="[https://raw.githubusercontent.com/arijeetnath12/DC-Motor-Position-PID-control/main/assets/Timeline_.mp4](https://github.com/arijeetnath12/DC-Motor-Position-PID-control/blob/main/assets/Timeline_.mp4)">direct link</a>.
 </video>
 
 
