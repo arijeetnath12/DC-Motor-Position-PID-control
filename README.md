@@ -17,6 +17,6 @@ Code for the motor driver is maintained here:
 
 ![Tracking demo](assets/DCMotorPWM.png)
 
-https://github.com/arijeetnath12/DC-Motor-Position-PID-control/blob/main/assets/Timeline_.mp4
+[https://github.com/arijeetnath12/DC-Motor-Position-PID-control/blob/main/assets/Timeline_.mp4](https://github.com/arijeetnath12/DC-Motor-Position-PID-control/issues/1)
 
 
